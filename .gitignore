@@ -1,17 +1,12 @@
-# Node modules
-node_modules/
-
-# Environment files
-.env
-
-# Build outputs
-build/
-dist/
-
-# Logs
+frontend/node_modules/
+frontend/job-portal/node_modules/
+backend/node_modules/
+frontend/.env
+backend/.env
+frontend/build/
+backend/dist/
 *.log
 npm-debug.log*
-
-# OS files
 .DS_Store
 Thumbs.db
+frontend/job-portal/.angular/
